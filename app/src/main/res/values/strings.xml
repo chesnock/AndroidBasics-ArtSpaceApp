@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art</string>
+
+    <string name="name_1">Rusya 🦧</string>
+    <string name="age_1">19</string>
+    <string name="string_1">Hello there. It\'s just a random text. Let me sing a song…\n\nA long, long time ago, I can still remember\nHow that music used to make me smile\nAnd I knew if I had my chance\nThat I could make those people dance\nAnd maybe they\'d be happy for a while\n\nBut February made me shiver\nWith every paper I\'d deliver\nBad news on the doorstep\nI couldn\'t take one more step\nI can\'t remember if I cried\nWhen I read about his widowed bride\nBut something touched me deep inside\nThe day the music died\n\nSo, bye, bye, Miss American Pie\nDrove my Chevy to The Levee, but The Levee was dry\nAnd them good old boys were drinkin\' whiskey in Rye\nSingin\', "This\'ll be the day that I die\nThis\'ll be the day that I die" </string>
+
+    <string name="name_2">Snufkin 🏕️</string>
+    <string name="age_2">20</string>
+    <string name="string_2">Travel far and wide, seek adventure in every corner of the world</string>
+
+    <string name="name_3">👀💪💯</string>
+    <string name="age_3">365</string>
+    <string name="string_3">Hi! It\'s Duo. \n\nIt\'s time for your daily French lesson.\nTake 5 minutes now to complete it.</string>
+
+    <string name="name_4">Lex 🤖</string>
+    <string name="age_4">40</string>
+    <string name="string_4">Have you already eaten your greens today?</string>
+</resources>
