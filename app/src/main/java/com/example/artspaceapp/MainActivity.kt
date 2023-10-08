@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background,
                 ) {
-                    App()
+                    ArtSpaceApp()
                 }
             }
         }
@@ -67,7 +67,7 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun App(modifier: Modifier = Modifier) {
+fun ArtSpaceApp(modifier: Modifier = Modifier) {
     val displayWidthInDp = LocalConfiguration.current.screenWidthDp.dp
     var currentProfileId by remember { mutableStateOf(1) }
     var imageResource: Painter = painterResource(R.drawable.image_1)
@@ -192,6 +192,6 @@ fun ProfilePicture(image: Painter, width: Dp) {
 @Composable
 fun GreetingPreview() {
     ArtSpaceAppTheme {
-        App()
+        ArtSpaceApp()
     }
 }
